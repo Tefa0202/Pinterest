@@ -4,10 +4,10 @@
 
 ![Image of Yaktocat](https://github.com/Tefa0202/Pinterest/blob/master/assets/img/1.PNG)
 
-### Esta es la visualización cuanto este estilo iPad.
+## Esta es la visualización cuanto este estilo iPad.
 
 ![Image of Yaktocat](https://github.com/Tefa0202/Pinterest/blob/master/assets/img/3.PNG)
 
-#### Esta es la visualización cuanto esa en el estilo iPhone.
+## Esta es la visualización cuanto esa en el estilo iPhone.
 
 ![Image of Yaktocat](https://github.com/Tefa0202/Pinterest/blob/master/assets/img/2.PNG)
