@@ -19,6 +19,7 @@ body .topBar {
   height: 45px;
 }
 body .topBar .contentBar {
+  position: absolute;
   width: 95%;
   display: flex;
   flex-direction: row;
